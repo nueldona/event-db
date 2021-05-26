@@ -1,0 +1,37 @@
+{
+ "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find ypur new feline fiend at this event",
+      "location: "Meow Town",
+      "date": "january 28, 2022",
+      "time": "12:00",
+      "petsAllowed": "true",
+      "organizer": "kat laoocb"
+    },
+    {
+      "id": 345,
+      "category": "food",
+      "title": "Community Gathering",
+      "description": "Join us to tend to the community edible plants",
+      "location": "Flora City",
+      "date": "march 28, 2022",
+      "time": "12:00",
+      "petsAllowed": "true",
+      "organizer": "kat laoocb"
+    },
+    {
+      "id": 567,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find ypur new feline fiend at this event",
+      "location": "Meow Town",
+      "date": "january 28, 2022",
+      "time": "12:00",
+      "petsAllowed": "true",
+      "organizer": "kat laoocb"
+    }
+ ]
+}
